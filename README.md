@@ -1,2 +1,2 @@
 # My-first-repository
-The name
+My first  repository, i'm learning how to use github
